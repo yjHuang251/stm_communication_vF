@@ -1,0 +1,6 @@
+../Core/Src/mainpp.cpp:32:6:void setup()	8	static
+../Core/Src/mainpp.cpp:40:6:void FLOAT_CHAR_Convert(void*, void*)	24	static
+../Core/Src/mainpp.cpp:46:6:void main_function()	8	static
+../Core/Src/mainpp.cpp:51:6:void HAL_UART_TxCpltCallback(UART_HandleTypeDef*)	16	static
+../Core/Src/mainpp.cpp:58:6:void HAL_UART_RxCpltCallback(UART_HandleTypeDef*)	16	static
+../Core/Src/mainpp.cpp:75:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
